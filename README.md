@@ -9,7 +9,7 @@ O objetivo é ter uma referência rápida e objetiva baseada em padrões de proj
 ### 1. Estrutura
 
 - [Inicializando projeto com Vite](/estrutura/incializando-projeto.md)
-- Instalação e configuração de bibliotecas
+- [Instalação e configuração de bibliotecas](/estrutura/instalando-e-configurando-bibliotecas.md)
 
 ### 2. Componentização
 
