@@ -6,7 +6,7 @@ Neste tópico destacaremos a instalação e configuração inicial da biblioteca
 
 Pode ser instalado com o seguinte comando:
 
-```Bash
+```bash
 npm install primevue @primeuix/themes
 ```
 
@@ -85,7 +85,7 @@ PrimeIcons é a biblioteca de ícones padrão do PrimeVue, com mais de 250 ícon
 
 ### Comando de instalação
 
-```Bash
+```bash
 npm install primeicons
 ```
 
