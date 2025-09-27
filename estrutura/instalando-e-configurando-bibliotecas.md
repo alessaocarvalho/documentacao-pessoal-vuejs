@@ -16,4 +16,10 @@ O PrimeUI estende o Tailwind adicionando utilitários derivados do tema ativo do
 
 - [Instalação e configuração do Tailwind CSS + PrimeUI](/estrutura/primevue/instalacao-e-configuracao-do-tailwindcss-primeui.md)
 
+## Dotenv
+
+Dotenv é um módulo sem dependências que carrega variáveis ​​de ambiente de um arquivo `.env` para o `process.env`. O armazenamento da configuração no ambiente, separado do código, é baseado na metodologia do aplicativo Twelve-Factor.
+
+- [Instalação e configuração do Dotenv](/estrutura/dotenv/instalacao-e-configuracao-do-dotenv.md)
+
 ## [⬅ Voltar](../README.md)
