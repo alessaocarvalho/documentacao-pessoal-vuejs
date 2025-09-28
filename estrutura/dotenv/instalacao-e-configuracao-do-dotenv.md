@@ -64,4 +64,8 @@ Adicione os arquivos de ambiente ao `.gitignore` para não versionar informaçõ
 .env.*.local
 ```
 
+## Documentação
+
+- [dotenv - npm](https://www.npmjs.com/package/dotenv)
+
 ## [⬅ Voltar](../instalando-e-configurando-bibliotecas.md)

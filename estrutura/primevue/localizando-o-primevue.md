@@ -179,4 +179,8 @@ app.use(PrimeVue, {
 });
 ```
 
+## Documentação
+
+- [Configuration - PrimeVue](https://primevue.org/configuration/#locale)
+
 ## [⬅ Voltar](../instalando-e-configurando-bibliotecas.md)
