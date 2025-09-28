@@ -7,6 +7,8 @@ Neste tópico, o destaque estará na instalação e configuração das bibliotec
 O PrimeVue é uma vasta biblioteca de componentes de UI, nele contamos com diversos elementos prontos como botões, tabelas, formulários, entre outros, facilitando a criação de interfaces.
 
 - [Instalação e configuração do PrimeVue](/estrutura/primevue/instalacao-e-configuracao-do-primevue.md)
+- [Localizando os componentes para PT-BR](/estrutura/primevue/localizando-o-primevue.md)
+- [Importando os componentes do PrimeVue globalmente](/estrutura/primevue/importando-componentes-globalmente.md)
 
 ## Tailwind CSS + PrimeUI
 

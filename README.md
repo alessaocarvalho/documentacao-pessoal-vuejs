@@ -17,14 +17,14 @@ O objetivo é ter uma referência rápida e objetiva baseada em padrões de proj
 - Criação de utilitários e composables
 - Props e Emits
 
-### 3. Gerenciamento de estado
-
-- Configuração do Pinia
-
-### 4. Rotas
+### 3. Rotas
 
 - Configuração das rotas com Vue Router
 - Proteção de rotas com Router Guard
+
+### 4. Gerenciamento de estado
+
+- Configuração do Pinia
 
 ### 5. Integrações com a API
 
@@ -34,7 +34,7 @@ O objetivo é ter uma referência rápida e objetiva baseada em padrões de proj
 
 ### 6. Variáveis de ambiente
 
-- Configuração das variáveis de ambiente
+- [Configuração das variáveis de ambiente](/estrutura/dotenv/instalacao-e-configuracao-do-dotenv.md)
 
 ### 7. Estilização
 
